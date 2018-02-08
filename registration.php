@@ -1,10 +1,5 @@
 <?php
-/*
-Comments
-=========
-Biosangam 2018, MNNIT ALLAHABAD
-BACKEND CODE BY MANJIT RAJ
-*/
+
 if (session_status() == PHP_SESSION_NONE){
  session_start();
 }
